@@ -1,18 +1,30 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="de11e23a-a7a5-40b8-90d8-e6ca4193938b" name="Default Changelist" comment="" />
+    <list default="true" id="c9698551-f174-40ae-ad3e-999ccc11d19d" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
     <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
     <option name="LAST_RESOLUTION" value="IGNORE" />
   </component>
-  <component name="ProjectId" id="1poSU6ra8XsqJCalkwIxvlmtPP0" />
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="module-info" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="ProjectId" id="1poSyLebF0vGIVOaaf9xthBSHoE" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
-    <property name="last_opened_file_path" value="$PROJECT_DIR$/MainApp" />
+  </component>
+  <component name="RecentsManager">
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\user\Desktop\TrashDO_2\java lab\lab2\DataStorage\src\arist\lab2\datastorage" />
+    </key>
   </component>
   <component name="RunDashboard">
     <option name="ruleStates">
@@ -31,13 +43,12 @@
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="de11e23a-a7a5-40b8-90d8-e6ca4193938b" name="Default Changelist" comment="" />
-      <created>1615847962605</created>
+      <changelist id="c9698551-f174-40ae-ad3e-999ccc11d19d" name="Default Changelist" comment="" />
+      <created>1615848202554</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1615847962605</updated>
-      <workItem from="1615847970018" duration="233000" />
-      <workItem from="1616496826290" duration="19000" />
+      <updated>1615848202554</updated>
+      <workItem from="1615848205900" duration="1266000" />
     </task>
     <servers />
   </component>
