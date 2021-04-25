@@ -1,7 +1,7 @@
 <?xml version="1.0" encoding="UTF-8"?>
 <project version="4">
   <component name="ChangeListManager">
-    <list default="true" id="c9698551-f174-40ae-ad3e-999ccc11d19d" name="Default Changelist" comment="" />
+    <list default="true" id="4de66b77-2dbe-420f-83c9-8bb36edaa980" name="Default Changelist" comment="" />
     <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
     <option name="SHOW_DIALOG" value="false" />
     <option name="HIGHLIGHT_CONFLICTS" value="true" />
@@ -16,14 +16,18 @@
       </list>
     </option>
   </component>
-  <component name="ProjectId" id="1poSyLebF0vGIVOaaf9xthBSHoE" />
+  <component name="ProjectId" id="1rfyKmwTCwiWNQ9EDECKTC9B4sU" />
   <component name="PropertiesComponent">
     <property name="WebServerToolWindowFactoryState" value="false" />
     <property name="aspect.path.notification.shown" value="true" />
+    <property name="project.structure.last.edited" value="Modules" />
+    <property name="project.structure.proportion" value="0.15" />
+    <property name="project.structure.side.proportion" value="0.2" />
+    <property name="settings.editor.selected.configurable" value="preferences.lookFeel" />
   </component>
   <component name="RecentsManager">
     <key name="MoveFile.RECENT_KEYS">
-      <recent name="C:\Users\user\Desktop\TrashDO_2\java lab\lab2\DataStorage\src\arist\lab2\datastorage" />
+      <recent name="C:\Users\user\Desktop\TrashDO_2\java lab\lab2_module\DataStorage\src\arist\lab2\datastorage" />
     </key>
   </component>
   <component name="RunDashboard">
@@ -38,17 +42,38 @@
       </list>
     </option>
   </component>
+  <component name="RunManager">
+    <configuration name="Main" type="Application" factoryName="Application" temporary="true" nameIsGenerated="true">
+      <option name="MAIN_CLASS_NAME" value="arist.lab2.main.Main" />
+      <module name="MainApp" />
+      <option name="PROGRAM_PARAMETERS" value="data.txt" />
+      <extension name="coverage">
+        <pattern>
+          <option name="PATTERN" value="arist.lab2.main.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <method v="2">
+        <option name="Make" enabled="true" />
+      </method>
+    </configuration>
+    <recent_temporary>
+      <list>
+        <item itemvalue="Application.Main" />
+      </list>
+    </recent_temporary>
+  </component>
   <component name="SvnConfiguration">
     <configuration />
   </component>
   <component name="TaskManager">
     <task active="true" id="Default" summary="Default task">
-      <changelist id="c9698551-f174-40ae-ad3e-999ccc11d19d" name="Default Changelist" comment="" />
-      <created>1615848202554</created>
+      <changelist id="4de66b77-2dbe-420f-83c9-8bb36edaa980" name="Default Changelist" comment="" />
+      <created>1619381376411</created>
       <option name="number" value="Default" />
       <option name="presentableId" value="Default" />
-      <updated>1615848202554</updated>
-      <workItem from="1615848205900" duration="1266000" />
+      <updated>1619381376411</updated>
+      <workItem from="1619381379029" duration="717000" />
     </task>
     <servers />
   </component>
